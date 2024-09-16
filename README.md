@@ -1,4 +1,4 @@
-<header>
+<header> :smile: :smile:
 
 <!--
   <<< Author notes: Course header >>>
